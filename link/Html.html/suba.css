@@ -1,0 +1,41 @@
+h1#a1
+{
+    font-size: 50px; 
+    text-align:center; 
+}
+p#a2
+{
+    font-size: 20px; 
+    text-align:center;
+    line-height: 30px;
+    margin-bottom: 50px;
+}
+img.s1
+{
+    width:33%;
+}
+img.s2
+{
+    width:33%;
+}
+img.s3
+{
+    width:33%;
+}
+h1#a3
+{
+    font-size: 50px; 
+    text-align:center; 
+}
+a#a4
+{
+    font-size: 20px ;
+    background-color:aqua;
+    padding: 15px,45px,15px,45px;
+    color: black;
+    text-align:center;
+}
+img.s4
+{
+    margin-top: 38px;
+}

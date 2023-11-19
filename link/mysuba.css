@@ -1,0 +1,108 @@
+ul{
+    list-style-type: none;
+    marign:0;
+    padding:0;
+    overflow:hidden;
+    background-color:rgb(107, 13, 13);
+}
+li{
+    float:left;
+    padding-left: 10px;
+    margin: 14px;
+
+}
+li a{
+    color:white;
+    display: block;
+    text-align:center;
+    text-decoration: none;
+}
+header h1,h2{
+    color:rgb(26, 8, 52);
+}
+header h1{
+    text-align: center;
+}
+
+aside{
+    background-color:rgb(192, 42, 67);
+   float:right;
+   padding:23px 23px 50px 50px;
+   margin:0;
+   height:240px;
+
+
+}
+aside a{
+    color:beige;
+    border: color:rgb(40, 187, 187) 2px solid black;
+}
+article{
+    background-color:rgb(225,171,224);
+    width:75%;
+    height: auto;
+    overflow: hidden;
+    margin:16px;
+    float:left;
+    padding:10px;
+}
+article li{
+    float:none;
+}
+section{
+    background-color:rgb(225, 171, 224);
+    width:55%;
+    height: auto;
+    overflow: hidden;
+    margin:5px;
+    float:left;
+    padding:10px;
+}
+section li{
+    float:none;
+}
+section#a1{
+    
+    width:20%;
+}
+details{
+    overflow:hidden;
+    float:left;
+    width:70%;
+    color:black;
+    border:#111 1px solid;
+    padding:10px;
+}
+footer{
+    overflow:hidden;
+    float:left;
+    background-color:antiquewhite;
+    width:100%;
+    height:220px;
+    margin-bottom:10px;
+    
+}
+footer p#s0{
+    float:right;
+    height:15px;
+}
+footer p#s9{
+    text-align: center;
+    height: 15px;px;
+    text-align:right;
+    margin-right: 10px;
+    
+}
+footer div.s8{
+    text-align: center;
+    text-align: left;
+    height:15px;
+}
+footer div.s6{
+    text-align: center;
+    height:15px;
+    text-shadow: #111;
+}
+div.g1{
+   margin:0;
+}

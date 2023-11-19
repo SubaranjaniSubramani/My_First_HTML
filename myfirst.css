@@ -1,0 +1,37 @@
+p
+{
+    color:red;
+}
+h1#a2
+{
+    COLOR:PINK;
+}
+/* while visiting link after color change */
+a#s1:visited
+{
+    
+    color:yellowgreen;
+   
+}
+/* while clicking the link the color change */
+a#s1:active
+{
+    color:skyblue;
+}
+div.suba
+{
+    background-color: bisque;
+}
+div.suba2
+{
+    color:red;
+}
+div.suba2 h3#a3
+{
+    background-color: aquamarine;
+}
+a#s2:visited
+{
+  
+  background-color: aquamarine;
+}
