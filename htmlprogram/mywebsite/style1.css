@@ -1,0 +1,247 @@
+div.p1 table
+{
+  float: right;
+}
+body{
+    /* background-color: pink; */
+}
+div.p1 img.s2
+{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+
+div.div1 a
+{
+   
+    margin-top: 35px;
+    padding-right: 35px;
+    color: beige;
+    text-decoration: none;
+
+}
+div.div1
+{
+    text-align: center;
+    background-color:brown;
+    padding:10px;
+
+}
+
+h1{
+    text-shadow: 2px 1px;
+    
+}
+p#a2
+{
+    text-transform: capitalize;
+    font-size: larger;
+}
+
+h1#a1
+{
+    text-align: center;
+}
+p#a2
+{
+    text-align: center;
+}
+div.img1 img.s1
+{
+    float: left;
+}
+img.home1
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+ /* h5#d1
+{
+    float: right;
+    padding-left: 0%;
+    padding-top: 10px;
+    padding-bottom: 0%;
+    font-size:medium;
+     line-height: 10%;
+
+}
+div.img2 img.s2
+{
+    float: right;
+}
+ h5#d2
+{
+    float: left;
+    padding-left: 0%;
+    padding-top: 10px;
+    padding-bottom: 0%; 
+    font-size:medium;
+     line-height: 10%;
+    
+} 
+div.img3 img.s3
+{
+    float: left;
+}
+ h5#d3
+{
+    float: right;
+    padding-left: 0%;
+    padding-top: 10px;
+    padding-bottom: 0%;
+    font-size:medium;
+     line-height: 10%;
+}
+img.toy{
+    display: grid;
+   margin-left: auto;
+   margin-right: auto;
+    height: auto;
+    width: 35%;
+} */
+/* body{
+    background-color: black;
+} */
+.class1
+{
+    width: 100%;
+    height: 280px;
+}
+img.class2
+{
+  
+    padding-left:36%;
+    width: 500px;
+}
+img.class3
+{
+    padding-left:36%;
+    width: 500px;
+}
+img.class4
+{
+    padding-left:36%;
+    width: 500px;
+}
+p#s1
+{
+    font-size: x-large;
+    text-transform:uppercase;
+    text-shadow:2px 1px ;
+   text-align: center;
+   color: brown;
+}
+p#s2
+{
+    text-align:center;
+    font-size: 150%;
+    text-transform: capitalize;
+   
+}
+div.div2 a
+{
+   text-align: center;
+    margin-top: 35px;
+    padding-left:35px;
+    color: brown;
+    text-decoration: none;
+     font-size:28px;
+}
+div.div2 h4
+{
+    text-align: center;
+    font-size:40px;
+
+}
+p#s3
+{
+    font-size: x-large;
+    text-transform:uppercase;
+    text-shadow:2px 1px ;
+   text-align: center;
+   color: brown;
+}
+p#s4
+{
+    text-align:center;
+    font-size: 150%;
+    text-transform: capitalize;
+   
+}
+div.div4 h4
+{
+    text-align: center;
+    font-size:40px;
+
+}
+  div.div4 a
+{
+   padding-left: 30px;
+  font-size: 30px;
+    color: brown;
+    text-decoration: none;
+     
+}
+div.div6 h4
+{
+    text-align: center;
+    font-size:40px;
+
+}
+  div.div6 a
+{
+   padding-left: 30px;
+  font-size: 30px;
+color: brown;
+text-decoration: none;
+     
+}
+p#s6
+{
+    font-size: x-large;
+    text-transform:capitalize;
+    
+   text-align: center;
+   
+}
+p#s5
+{
+    text-align:center;
+    font-size: 150%;
+    text-transform: capitalize;
+    text-shadow: 2px 1px;
+    color: brown;
+   
+}
+footer{
+    background-color:rgb(209, 175, 175) ;
+    padding:5%
+}
+footer p#s0{
+    float:right;
+    height:15px;
+}
+footer p#s9{
+    text-align: center;
+    height: 15px;px;
+    text-align:right;
+    margin-right: 10px;
+    
+}
+footer div.s8{
+    text-align: center;
+    text-align: left;
+    height:15px;
+}
+footer div.s6{
+    text-align: center;
+    height:15px;
+   
+}
+div.g1{
+   margin:0;
+}
